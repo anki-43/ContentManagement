@@ -4,7 +4,7 @@
 
 ## Techonlogies used.
 
-A plain CCS and HTML 5.0 is used to make this webpage. Also Bootstrap5 is used for the decoration of some buttons.
+A plain CSS and HTML5.0 is used to make this webpage. Also Bootstrap5 is used for the decoration of some buttons.
 
 ### Code used from bootstrap
 ```Code
