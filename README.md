@@ -1,0 +1,12 @@
+# ContentManagement
+
+>This is a website that lets you choose the music subscription plan of your choice.
+
+## Techonlogies used.
+
+A plain CCS and HTML 5.0 is used to make this webpage. Also Bootstrap5 is used for the decoration of some buttons.
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
