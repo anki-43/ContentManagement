@@ -15,25 +15,24 @@
 </head>
 <body>
     <div class="main"> 
-      <img src="./assets/illustration-hero.svg">
+      <img class="top-img" src="./assets/illustration-hero.svg">
       <h1>Order Summary</h1>
       <p>You can now listen to millions of songs, audiobooks and podcasts on any device anywhere you like!</p>
       
       <div class="price-container">
-           
-            <img src="./assets/icon-music.svg">
-       
+
+            <img class="favicon" src="./assets/icon-music.svg">
             <p>Annual plan $59.99/year</p>
-       
-            <a class="child-3" href="#">Change</a>
-       
+           <a class="child-3" href="#">Change</a>
+    
      </div>
 
       <div class="button">
          <button class="btn btn-primary" type="button">Proceed to Payment</button><br>
-         <button type="button" class="btn btn-light">Cancel Order</button>
+         <button type="button" onclick="confirm()" class="btn btn-light">Cancel Order</button>
       </div>
 
     </div>
+    <script src="./script.js"></script>
 </body>
 </html>

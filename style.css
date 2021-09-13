@@ -17,10 +17,13 @@ body{
    height: 100%;
    width: 33.01%;
    background-color: white;
+   display:flex;
+   flex-direction: column;
   
    border-radius: 20px;
    overflow: auto;
    font-family: 'Red Hat Display', sans-serif;
+   padding-bottom: 2vh;
 }
 
 .main h1{
@@ -40,8 +43,15 @@ body{
     margin: auto;
     border-radius: 10px;
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     background-color: rgb(233, 233, 241);
+
+}
+
+.favicon{
+    width: 10wh;
+    height: 10vh;
+    align-self: center;
 }
 
 .price-container:hover{
@@ -62,3 +72,5 @@ body{
     align-items: center;
     margin-bottom: 0;
  }
+
+ 
