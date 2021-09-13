@@ -10,7 +10,7 @@ A plain CSS and HTML5.0 is used to make this webpage. Also Bootstrap5 is used fo
 ```Code
 <div class="button">
    <button class="btn btn-primary" type="button">Proceed to Payment</button><br>
-   <button type="button" class="btn btn-light">Cancel Order</button>
+   <button type="button" class="btn btn-secondary">Cancel Order</button>
 </div
 ```
 
