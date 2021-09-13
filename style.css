@@ -73,10 +73,4 @@ body{
     margin-bottom: 0;
  }
 
- .btn-secondary:hover{
-    color: $hover-color;
-    @include gradient-bg($hover-background);
-    border-color: $hover-border;
- }
-
  
